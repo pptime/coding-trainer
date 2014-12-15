@@ -1,0 +1,14 @@
+message TrainingRecord {
+	repeated Problem problem = 1;	
+}
+
+message Problem{
+	required string name = 1;
+	required int32 priority = 2;//average duration
+	repeated Record record = 3;
+}
+
+message Record{
+	required string date = 1;
+	required double duration = 2;
+}

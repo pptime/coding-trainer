@@ -1,0 +1,4 @@
+Input description: Point sets or polygons A and B, containing n and m vertices
+respectively.
+Problem description: What is the convolution of A and B—i.e. , the Minkowski
+sum A + B = {x + y|x ∈ A, y ∈ B}?

@@ -1,0 +1,4 @@
+Input description: A set S of n points or more complicated geometric objects in
+k dimensions.
+Problem description: Construct a tree that partitions space by half-planes such
+that each object is contained in its own box-shaped region.

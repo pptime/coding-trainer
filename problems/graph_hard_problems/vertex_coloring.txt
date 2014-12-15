@@ -1,0 +1,3 @@
+Input description: A graph G = (V, E).
+Problem description: Color the vertices of V using the minimum number of
+colors such that i and j have different colors for all (i, j) ∈ E.

@@ -1,0 +1,3 @@
+*Input description*: A set of n records, each identified by one or more key fields.
+*Problem description*: Build and maintain a data structure to efficiently locate,
+insert, and delete the record associated with any query key q.

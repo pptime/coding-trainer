@@ -1,0 +1,2 @@
+Input description: A graph G.
+Problem description: Draw a graph G so as to accurately reflect its structure.

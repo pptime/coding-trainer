@@ -1,0 +1,3 @@
+Input description: A graph G = (V, E) with weighted edges.
+Problem description: The minimum weight subset of edges E ′ ⊂ E that form a
+tree on V .

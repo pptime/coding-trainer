@@ -1,0 +1,2 @@
+Input description: A plaintext message T or encrypted text E, and a key k.
+Problem description: Encode T (decode E) using k giving E (T ).

@@ -1,0 +1,3 @@
+Input description: A set S of points p 1 , . . . , p n .
+Problem description: Decompose space into regions around each point such that
+all points in the region around p i are closer to p i than any other point in S.

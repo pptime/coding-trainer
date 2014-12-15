@@ -1,0 +1,3 @@
+*Input description*: A reference string S.
+*Problem description*: Build a data structure to quickly find all places where an
+arbitrary query string q occurs in S.

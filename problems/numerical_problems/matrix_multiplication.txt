@@ -1,0 +1,2 @@
+Input description: An x × y matrix A and a y × z matrix B.
+Problem description: Compute the x × z matrix A × B.

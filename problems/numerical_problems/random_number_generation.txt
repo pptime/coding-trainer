@@ -1,0 +1,2 @@
+Input description: Nothing, or perhaps a seed.
+Problem description: Generate a sequence of random integers.

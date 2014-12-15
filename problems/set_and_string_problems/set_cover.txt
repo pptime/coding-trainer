@@ -1,0 +1,5 @@
+Input description: A collection of subsets S = {S 1 , . . . , S m } of the universal set
+U = {1, . . . , n}.
+Problem description: What is the smallest subset T of S whose union equals
+|T |
+the universal set—i.e. , ∪ i=1 T i = U ?

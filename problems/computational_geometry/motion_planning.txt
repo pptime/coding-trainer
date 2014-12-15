@@ -1,0 +1,4 @@
+Input description: A polygonal-shaped robot starting in a given position s in a
+room containing polygonal obstacles, and a goal position t.
+Problem description: Find the shortest route taking s to t without intersecting
+any obstacles.

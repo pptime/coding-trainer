@@ -1,0 +1,2 @@
+Input description: A graph G = (V, E). A subset of vertices T ∈ V .
+Problem description: Find the smallest tree connecting all the vertices of T .

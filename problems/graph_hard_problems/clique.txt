@@ -1,0 +1,3 @@
+Input description: A graph G = (V, E).
+Problem description: What is the largest S ⊂ V such that for all x, y ∈ S,
+(x, y) ∈ E?

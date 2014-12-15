@@ -1,0 +1,3 @@
+Input description: A (weighted) graph G = (V, E) and integers k and m.
+Problem description: Partition the vertices into m roughly equal-sized subsets
+such that the total edge cost spanning the subsets is at most k.

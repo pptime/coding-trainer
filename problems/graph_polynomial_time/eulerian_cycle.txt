@@ -1,0 +1,3 @@
+Input description: A graph G = (V, E).
+Problem description: Find the shortest tour visiting each edge of G at least
+once.

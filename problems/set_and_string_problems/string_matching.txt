@@ -1,0 +1,2 @@
+Input description: A text string t of length n. A pattern string p of length m.
+Problem description: Find the first (or all) instances of pattern p in the text.

@@ -1,0 +1,5 @@
+Input description: A graph G = (V, E), representing an n × n matrix M of zero
+and non-zero elements.
+Problem description: Which permutation p of the vertices minimizes the length
+of the longest edge when the vertices are ordered on a line—i.e. , minimizes
+max (i,j)∈E |p(i) − p(j)|?

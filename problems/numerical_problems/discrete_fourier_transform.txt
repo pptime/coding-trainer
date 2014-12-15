@@ -1,0 +1,7 @@
+Input description: A sequence of n real or complex values h i , 0 ≤ i ≤ n − 1,
+sampled at uniform intervals from a function h.
+Problem description: The discrete Fourier transform H m =
+for 0 ≤ m ≤ n − 1.
+n−1
+k=0
+h k e 2πikm/n

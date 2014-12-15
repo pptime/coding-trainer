@@ -1,0 +1,4 @@
+Input description: A set of records with numerically or otherwise totally-ordered
+keys.
+Problem description: Build and maintain a data structure for providing quick
+access to the smallest or largest key in the set.

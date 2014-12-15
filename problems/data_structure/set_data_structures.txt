@@ -1,0 +1,5 @@
+Input description: A universe of items U = {u 1 , . . . , u n } on which is defined a
+collection of subsets S = {S 1 , . . . , S m }.
+Problem description: Represent each subset so as to efficiently (1) test whether
+u i ∈ S j , (2) compute the union or intersection of S i and S j , and (3) insert or delete
+members of S.

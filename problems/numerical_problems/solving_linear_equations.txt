@@ -1,0 +1,3 @@
+Input description: An m×n matrix A and an m×1 vector b, together representing
+m linear equations on n variables.
+Problem description: What is the vector x such that A · x = b?

@@ -1,0 +1,4 @@
+Input description: A directed graph G, where each edge e = (i, j) has a capacity
+c e . A source node s and sink node t.
+Problem description: What is the maximum flow you can route from s to t while
+respecting the capacity constraint of each edge?

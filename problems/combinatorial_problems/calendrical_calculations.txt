@@ -1,0 +1,2 @@
+Input description: A particular calendar date d, specified by month, day, and year.
+Problem description: Which day of the week did d fall on according to the given calendar system?

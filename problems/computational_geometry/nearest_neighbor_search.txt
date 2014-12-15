@@ -1,0 +1,2 @@
+Input description: A set S of n points in d dimensions; a query point q.
+Problem description: Which point in S is closest to q?

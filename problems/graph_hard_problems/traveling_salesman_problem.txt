@@ -1,0 +1,3 @@
+Input description: A weighted graph G.
+Problem description: Find the cycle of minimum cost, visiting each vertex of G
+exactly once.

@@ -1,0 +1,4 @@
+Input description: Two graphs, G and H.
+Problem description: Find a (or all) mapping f from the vertices of G to the
+vertices of H such that G and H are identical; i.e. , (x, y) is an edge of G iff
+(f (x), f (y)) is an edge of H.

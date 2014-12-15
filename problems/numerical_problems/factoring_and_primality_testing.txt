@@ -1,0 +1,2 @@
+Input description: An integer n.
+Problem description: Is n a prime number, and if not what are its factors?

@@ -1,0 +1,2 @@
+Input description: A set S of n points in E d and a query region Q.
+Problem description: What points in S lie within Q?

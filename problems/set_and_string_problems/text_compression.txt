@@ -1,0 +1,3 @@
+Input description: A text string S.
+Problem description: Create a shorter text string S ′ such that S can be correctly
+reconstructed from S ′ .

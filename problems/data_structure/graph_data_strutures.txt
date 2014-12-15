@@ -1,0 +1,3 @@
+Input description: A graph G.
+Problem description: Represent the graph G using a flexible, efficient data struc-
+ture.

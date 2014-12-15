@@ -1,0 +1,3 @@
+Input description: A graph G. Optionally, a pair of vertices s and t.
+Problem description: What is the smallest subset of vertices (or edges) whose
+deletion will disconnect G? Or which will separate s from t?

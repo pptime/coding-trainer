@@ -1,0 +1,5 @@
+Input description: A directed graph G = (V, E).
+Problem description: For transitive closure, construct a graph G ′ = (V, E ′ ) with
+edge (i, j) ∈ E ′ iff there is a directed path from i to j in G. For transitive reduction,
+construct a small graph G ′ = (V, E ′ ) with a directed path from i to j in G ′ iff there
+is a directed path from i to j in G.

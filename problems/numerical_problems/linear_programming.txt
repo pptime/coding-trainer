@@ -1,0 +1,11 @@
+Input description: A set S of n linear inequalities on m variables
+m
+S i :=
+j=1
+c ij · x j ≥ b i , 1 ≤ i ≤ n
+and a linear optimization function f (X) =
+m
+j=1 c j
+· x j .
+Problem description: Which variable assignment X ′ maximizes the objective
+function f while satisfying all inequalities S?

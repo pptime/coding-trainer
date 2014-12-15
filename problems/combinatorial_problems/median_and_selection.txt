@@ -1,0 +1,2 @@
+Input description: A set of n numbers or keys, and an integer k.
+Problem description: Find the key smaller than exactly k of the n keys.

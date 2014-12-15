@@ -1,0 +1,3 @@
+Input description: A set of lines and line segments l 1 , . . . , l n .
+Problem description: What is the decomposition of the plane defined by
+l 1 , . . . , l n ?

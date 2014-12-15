@@ -1,0 +1,2 @@
+Input description: A set of n keys S, and a query key q.
+Problem description: Where is q in S?

@@ -1,0 +1,2 @@
+Input description: A point p and line segment l, or two line segments l 1 , l 2 .
+Problem description: Does p lie over, under, or on l? Does l 1 intersect l 2 ?

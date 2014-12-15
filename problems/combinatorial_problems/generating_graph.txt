@@ -1,0 +1,2 @@
+Input description: Parameters describing the desired graph, including the number of vertices n, and the number of edges m or edge probability p.
+Problem description: Generate (1) all, or (2) a random, or (3) the next graph satisfying the parameters.

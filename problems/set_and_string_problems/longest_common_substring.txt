@@ -1,0 +1,3 @@
+Input description: A set S of strings S 1 , . . . , S n .
+Problem description: What is the longest string S ′ such that all the characters
+of S ′ appear as a substring or subsequence of each S i , 1 ≤ i ≤ n?

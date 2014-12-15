@@ -1,0 +1,3 @@
+Input description: A graph G = (V, E).
+Problem description: What is the smallest subset of S ⊂ V such that each edge
+(x, y) ∈ E contains at least one vertex of S?

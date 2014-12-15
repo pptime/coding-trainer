@@ -1,0 +1,4 @@
+Input description: A set S of lines and line segments l 1 , . . . , l n or a pair of
+polygons or polyhedra P 1 and P 2 .
+Problem description: Which pairs of line segments intersect each other? What
+is the intersection of P 1 and P 2 ?

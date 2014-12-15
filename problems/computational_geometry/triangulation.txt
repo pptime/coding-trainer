@@ -1,0 +1,3 @@
+Input description: A set of points or a polyhedron.
+Problem description: Partition the interior of the point set or polyhedron into
+triangles.

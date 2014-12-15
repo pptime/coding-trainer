@@ -1,0 +1,3 @@
+Input description: An integer n.
+Problem description: Generate (1) all, or (2) a random, or (3) the next permu-
+tation of length n.

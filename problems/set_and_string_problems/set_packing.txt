@@ -1,0 +1,4 @@
+Input description: A set of subsets S = {S 1 , . . . , S m } of the universal set U =
+{1, . . . , n}.
+Problem description: Select (an ideally small) collection of mutually disjoint
+subsets from S whose union is the universal set.

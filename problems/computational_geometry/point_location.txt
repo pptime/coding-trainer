@@ -1,0 +1,3 @@
+Input description: A decomposition of the plane into polygonal regions and a
+query point q.
+Problem description: Which region contains the query point q?

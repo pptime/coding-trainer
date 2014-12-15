@@ -1,0 +1,3 @@
+Input description: A deterministic finite automaton M .
+Problem description: Create the smallest deterministic finite automaton M ′
+such that M ′ behaves identically to M .

@@ -1,0 +1,4 @@
+Input description: A directed acyclic graph G = (V, E), also known as a partial
+order or poset.
+Problem description: Find a linear ordering of the vertices of V such that for
+each edge (i, j) ∈ E, vertex i is to the left of vertex j.

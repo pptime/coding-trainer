@@ -1,0 +1,3 @@
+Input description: A set of clauses in conjunctive normal form.
+Problem description: Is there a truth assignment to the Boolean variables such
+that every clause is simultaneously satisfied?

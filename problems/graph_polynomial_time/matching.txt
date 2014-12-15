@@ -1,0 +1,3 @@
+Input description: A (weighted) graph G = (V, E).
+Problem description: Find the largest set of edges E ′ from E such that each
+vertex in V is incident to at most one edge of E ′ .

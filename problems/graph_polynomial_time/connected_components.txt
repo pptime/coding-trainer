@@ -1,0 +1,4 @@
+Input description: A directed or undirected graph G.
+Problem description: Identify the different pieces or components of G, where
+vertices x and y are members of different components if no path exists from x to
+y in G.

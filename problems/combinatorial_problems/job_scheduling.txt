@@ -1,0 +1,4 @@
+Input description: A directed acyclic graph G = (V, E), where vertices represent
+jobs and edge (u, v) implies that task u must be completed before task v.
+Problem description: What schedule of tasks completes the job using the mini-
+mum amount of time or processors?

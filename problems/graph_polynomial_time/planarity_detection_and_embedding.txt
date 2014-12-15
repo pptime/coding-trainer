@@ -1,0 +1,3 @@
+Input description: A graph G.
+Problem description: Can G be drawn in the plane such that no two edges cross?
+If so, produce such a drawing.

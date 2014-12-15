@@ -1,0 +1,6 @@
+Input description: A set of items S = {1, . . . , n}, where item i has size s i and
+value v i . A knapsack capacity is C.
+Problem description: Find the subset S ′ ⊂ S that maximizes the value of
+i∈S ′ v i , given that
+i∈S ′ s i ≤ C; i.e. , all the items fit in a knapsack of size
+C.

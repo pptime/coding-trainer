@@ -1,0 +1,2 @@
+Input description: A set of n items with sizes d 1 , . . . , d n . A set of m bins with capacity c 1 , . . . , c m .
+Problem description: Store all the items using the smallest number of bins.

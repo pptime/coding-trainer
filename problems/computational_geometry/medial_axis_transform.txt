@@ -1,0 +1,3 @@
+Input description: A polygon or polyhedron P .
+Problem description: What are the set of points within P that have more than
+one closest point on the boundary of P ?

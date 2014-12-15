@@ -1,0 +1,3 @@
+Input description: An n × n matrix M .
+Problem description: What is the determinant |M | or permanent perm(M ) of
+the matrix m?

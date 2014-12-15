@@ -1,0 +1,2 @@
+Input description: A tree T , which is a graph without any cycles.
+Problem description: Create a nice drawing of the tree T.

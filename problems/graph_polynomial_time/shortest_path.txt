@@ -1,0 +1,2 @@
+Input description: An edge-weighted graph G, with vertices s and t.
+Problem description: Find the shortest path from s to t in G.

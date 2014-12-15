@@ -1,0 +1,3 @@
+Input description: A function f (x 1 , . . . , x n ).
+Problem description: What point p = (p 1 , . . . , p n ) maximizes (or minimizes) the
+function f ?
